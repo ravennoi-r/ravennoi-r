@@ -24,12 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg" width="40" height="40"/>
 </p>
-
-## My stats
-<img height="180" style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravennoi-r&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000"/>
-
-<img height="180" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=ravennoi-r&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
 
 </div>
