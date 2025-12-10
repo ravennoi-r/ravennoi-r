@@ -28,8 +28,6 @@
 </p>
 
 ## My stats
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
 <img height="180" style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravennoi-r&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000"/>
 
 <img height="180" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=ravennoi-r&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
