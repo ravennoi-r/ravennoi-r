@@ -1,7 +1,7 @@
 ## Hi there, I'm Leo Luz 👋
 
 - 🎓 Instituto Federal do Piauí (IFPI) ; Universidade de São Paulo (USP)
-- 📚 Currently in 2nd year of high school | 💻 Integrated Technical Program in Informatics | 📊 Remote Data Analysis course
+- 📚 Currently in 3nd year of high school | 💻 Integrated Technical Program in Informatics | 📊 Remote Data Analysis course
 - 🌱 I’m currently learning Java, Javascript, Typescript and C. 
 - 👍 Always available to help by sharing my knowledge and skills.
 
