@@ -65,11 +65,3 @@
 
 </p>
 
----
-
-## 📈 Current Goals
-
-- 🚀 Improve my skills in software engineering and AI
-- 🧠 Deepen my knowledge in machine learning
-- 🐧 Master Linux environments and development workflows
-- 💡 Build impactful projects focused on technology and innovation
