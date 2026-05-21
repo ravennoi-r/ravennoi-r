@@ -67,7 +67,6 @@
 
 ---
 
-.github/workflows/snake.yml
 name: Generate Snake
 
 on:
@@ -94,3 +93,11 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ravennoi-r/ravennoi-r/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
