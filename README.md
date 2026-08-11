@@ -2,7 +2,7 @@
 
 🎓 Student at Instituto Federal do Piauí (IFPI)  
 💻 Integrated Technical Program in Informatics  
-📚 Aspiring Biomedical Scientist & AI Enthusiast  
+📚 Aspiring Scientist & AI Enthusiast  
 
 - 📖 Currently in the 3rd year of high school
 - 🌱 Learning and building with Java, JavaScript, TypeScript, C, Python and Linux
