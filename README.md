@@ -64,9 +64,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 </p>
-
-
-
-<p align="center">
-  <img src="https://github.com/ravennoi-r/ravennoi-r/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
